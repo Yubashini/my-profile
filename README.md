@@ -1,2 +1,2 @@
 # my-profile
-This repository showcases the work and skills of Yubashini, a passionate and creative Frontend Developer.Explore the innovative designs, clean code, and engaging user experiences built using HTML, CSS, JavaScript, and popular frontend frameworks.
+A Portfolio showcasing skills in HTML,CSS and JavaScript. This repository contains interactive and responsive web components, demonstraring expertise in modern front-end development.
